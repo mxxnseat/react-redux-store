@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "https://apple-fast-remont.ru/images/apple/content/iphone4.jpg",
+        "name": "Iphone 4",
+        "price": 150
+    },
+    {
+        "id": 2,
+        "image": "https://www.regard.ru/photo/shop/89149_1.jpg",
+        "name": "Iphone 4S",
+        "price": 180
+    },
+    {
+        "id": 3,
+        "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/1790859/63242183.jpg",
+        "name": "Iphone 5",
+        "price": 210
+    },
+    {
+        "id": 4,
+        "image": "https://brigo.ru/upload/iblock/f4f/883701_1.jpg",
+        "name": "Iphone 5S",
+        "price": 250
+    },
+    {
+        "id": 5,
+        "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/14574065/1242394893.jpg",
+        "name": "Iphone 6",
+        "price": 300
+    },
+    {
+        "id": 6,
+        "image": "https://cdn1.ozone.ru/multimedia/1037463747.jpg",
+        "name": "Iphone 6s Plus",
+        "price": 320
+    },
+    {
+        "id": 7,
+        "image": "https://mresell.fi/wp-content/uploads/2019/09/iphone-6s-plus-silver-300x300.jpg",
+        "name": "Iphone 6S",
+        "price": 315
+    },
+    {
+        "id": 8,
+        "image": "https://media2.24aul.ru/imgs/400x800/5bd9ddc9df7b220001965e4c/iphone-se-32gb-interesuet-obmen-1-12537786.jpg",
+        "name": "Iphone SE",
+        "price": 250
+    },
+    {
+        "id": 9,
+        "image": "https://images.ru.prom.st/746816425_w640_h640_smartfon-apple-iphone.jpg",
+        "name": "Iphone 7",
+        "price": 400
+    },
+    {
+        "id": 10,
+        "image": "https://img.softline.com/mcf/61e37a5447509c55eced8bece0d96b59/5b3fe5d3286865b40301/addition-dec-160x160.jpg",
+        "name": "Iphone 8",
+        "price": 550
+    }
+]
